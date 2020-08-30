@@ -314,7 +314,6 @@ def hack_select():
                                     print '\x1b[1;91m[\xe2\x9c\x96] \x1b[1;97m' + hack + ' \x1b[1;91mThere is nothing'
                                     hack_select()
 
-SE   
 def mini():
     os.system('clear')
     try:
