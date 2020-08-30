@@ -21,7 +21,7 @@
  </a>
 </p>
 
-![Evil-Devil](image link)
+![Evil-Devil](https://github.com/evildevill/Devil/blob/master/ascets/Screenshot_2020-08-30-14-16-35.png)
 
 ***
 
@@ -50,13 +50,16 @@ operating systems - Kali Linux and Termux!
 
 ## Devil Tool installation
 
+```
 > apt-get update -y
 
 > apt-get install python2 -y
 
-> apt-get install git -y
+> pip2 install mechanize
 
-> apt-get install php -y
+> pip2 install requests
+
+> apt-get install git -y
 
 > git clone https://github.com/evildevill/Devil.git
 
@@ -64,10 +67,9 @@ operating systems - Kali Linux and Termux!
 
 > chmod +x *
 
-> pip2 install -r requirements.txt
-
 > python2 Devil.py 
 
+```
 
 ```
 Also, we do not recommend to change the source code of ehtools because 
