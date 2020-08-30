@@ -108,12 +108,13 @@ people we created Devil Framework password protection.
 
 
 
-![devil-yellow](image link put here)
+
 
 # SubScribe Our YouTube Channel
 
-<a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ">
+<a href="https://www.youtube.com/channel/UC0bX56PZ_nMZw3t4p90SYyQ target="_blank">
 <p><img src="https://img.shields.io/badge/YouTube-TheLinuxChoice-blue.svg"></p>
+![devil-yellow](https://github.com/evildevill/Devil/blob/master/ascets/youtube%20channel.png)
 </a>
 
 
