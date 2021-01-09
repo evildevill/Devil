@@ -147,7 +147,7 @@ To run Devil Framework you should
 execute the following command.
 ```
 
-> Devil.py
+> python2 Devil.py
 
 ***
 
