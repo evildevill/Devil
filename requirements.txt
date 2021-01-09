@@ -1,2 +1,4 @@
 mechanize
 requests
+lolcat
+phonenumbers
