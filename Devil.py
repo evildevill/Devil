@@ -1,5 +1,5 @@
 #Decompiled by Hacker WaSI
-#Upgraded By EvilDevil
+#Upgraded By WaSeem Akram
 import os, sys, time, datetime, random, hashlib, re, threading, json, getpass, urllib, requests, mechanize
 from multiprocessing.pool import ThreadPool
 
