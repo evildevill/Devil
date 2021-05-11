@@ -115,19 +115,13 @@ operating systems - Kali Linux and Termux!
 ```
 > apt-get update -y
 
-> apt-get install python2 -y
-
-> pip2 install mechanize
-
-> pip2 install requests
-
-> apt-get install git -y
+> apt-get install git python2 -y
 
 > git clone https://github.com/evildevill/Devil.git
 
 > cd Devil
 
-> chmod +x *
+> pip2 install -r requirements.txt
 
 > python2 Devil.py 
 
