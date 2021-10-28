@@ -286,11 +286,11 @@ def informasi():
                             '\x1b[1;91m[?] \x1b[1;92mDate of birth\x1b[1;97m : \x1b[1;91mThere is nothing')
 
                 try:
-                    print('\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mSchool\x1b[1;97m       : '()
-                        for q in z['education']:
-                            try:
-                                  print('\x1b[1;91m                   ~ \x1b[1;97m' + q['school']['name']()
-                                                          except KeyError:
+                    print '\x1b[1;91m[\xe2\x9e\xb9] \x1b[1;92mSchool\x1b[1;97m       : '
+                    for q in z['education']:
+                        try:
+                            print '\x1b[1;91m                   ~ \x1b[1;97m' + q['school']['name']
+                        except KeyError:
                             print '\x1b[1;91m                   ~ \x1b[1;91mThere is nothing'
 
 
@@ -301,8 +301,8 @@ def informasi():
 
             raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
             menu()
-    else:
-        print '\x1b[1;91m[\xe2\x9c\x96] User not found'
+    else:   
+        print('\x1b[1;91m[\xe2\x9c\x96] User not found')
         raw_input('\n\x1b[1;91m[ \x1b[1;97mBack \x1b[1;91m]')
         menu()
 
