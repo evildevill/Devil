@@ -129,7 +129,7 @@ operating systems - Kali Linux and Termux!
 
 > chmod +x *
 
-> python2 Devil.py 
+> python2 wasi.py 
 
 ```
 
