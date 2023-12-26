@@ -754,4 +754,5 @@ def unfriend():
 
 
 if __name__ == '__main__':
-    menu()
+    menu()<"open></"open>
+    
